@@ -11,3 +11,10 @@ step 3 open cmd go to the folder directory
 step 4 check your file configuration is correct or not ---> type command --> docker compose config 
 
 step 5:  run your file type command --> docker compose up -d
+
+step 6: verify all port as mentions in yml file
+
+http://localhost:8002/
+http://localhost:8000/
+http://localhost:8001/
+
