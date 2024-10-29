@@ -1,0 +1,13 @@
+how to install kong api gateway in your machine
+===============================================
+
+
+step1: downlaod the docker-compose.yml
+
+step 2 create a folder and paste this file im your folder
+
+step 3 open cmd go to the folder directory
+
+step 4 check your file configuration is correct or not ---> type command --> docker compose config 
+
+step 5:  run your file type command --> docker compose up -d
